@@ -1,0 +1,14 @@
+{
+  "minecraft:recipes/building_blocks/snow": {
+    "criteria": {
+      "has_snowball": "2017-07-21 12:16:59 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/snow_layer": {
+    "criteria": {
+      "has_snowball": "2017-07-21 12:16:59 -0400"
+    },
+    "done": true
+  }
+}
