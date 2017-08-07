@@ -1,0 +1,1 @@
+summon creeper 417 30 -30 {powered:1,ExplosionRadius:20,Fuse:1,Attributes:[{Name:generic.movementSpeed,Base:1},{Name:generic.followRange,Base:100}],Invulnerable:1}

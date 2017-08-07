@@ -1,0 +1,1 @@
+tellraw @s ["",{"text":"[Disasters] Purchase successful!","color":"aqua","bold":true,"insertion":"/give @p sign 1 0 {BlockEntityTag:{%s,id:\"Sign\"}}"}]

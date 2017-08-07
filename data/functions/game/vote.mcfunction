@@ -1,0 +1,1 @@
+tellraw @s ["",{"text":"Click here to vote!","color":"yellow","bold":true,"clickEvent":{"action":"open_url","value":"http://minecraftservers.org/vote/446999"}}]

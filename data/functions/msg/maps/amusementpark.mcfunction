@@ -1,0 +1,1 @@
+execute @a[score_game_min=1,score_game=1] ~ ~ ~ title @s ["",{"text":"The map is ","color":"green"},{"text":"AMUSEMENT PARK","color":"yellow","bold":true}]

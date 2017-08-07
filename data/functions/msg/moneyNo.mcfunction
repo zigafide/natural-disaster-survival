@@ -1,0 +1,1 @@
+tellraw @s ["",{"text":"[Disasters] You only have ","color":"red","bold":true},{"score":{"name":"@s","objective":"money"},"color":"yellow","bold":true},{"text":" coins.","color":"red","bold":true}]

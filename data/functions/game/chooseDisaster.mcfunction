@@ -1,0 +1,1 @@
+execute @r[type=zombie,name=dis] ~ ~ ~ /setblock ~ ~-2 ~ redstone_block

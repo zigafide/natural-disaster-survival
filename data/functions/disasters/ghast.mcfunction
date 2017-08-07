@@ -1,0 +1,13 @@
+title @a[score_game_min=1,score_game=1] actionbar ["",{"text":"The disaster is ","color":"green"},{"text":"GHASTS","color":"yellow","bold":true}]
+effect @a[score_game_min=1,score_game=1] minecraft:resistance 0 1 @a[score_game_min=1,score_game=1] clear
+summon commandblock_minecart 66 1 11 {Tags:["delay"],PortalCooldown:120,Command:"/function dependancies:ghast"}
+summon commandblock_minecart 66 1 11 {Tags:["delay"],PortalCooldown:150,Command:"/function dependancies:ghast"}
+summon commandblock_minecart 66 1 11 {Tags:["delay"],PortalCooldown:180,Command:"/function dependancies:ghast"}
+summon commandblock_minecart 66 1 11 {Tags:["delay"],PortalCooldown:200,Command:"/function dependancies:ghast"}
+summon commandblock_minecart 66 1 11 {Tags:["delay"],PortalCooldown:240,Command:"/function dependancies:ghast"}
+summon commandblock_minecart 66 1 11 {Tags:["delay"],PortalCooldown:280,Command:"/function dependancies:ghast"}
+summon commandblock_minecart 66 1 11 {Tags:["delay"],PortalCooldown:300,Command:"/function dependancies:ghast"}
+summon commandblock_minecart 66 1 11 {Tags:["delay"],PortalCooldown:350,Command:"/function dependancies:ghast"}
+summon commandblock_minecart 66 1 11 {Tags:["delay"],PortalCooldown:400,Command:"/function dependancies:ghast"}
+summon commandblock_minecart 66 1 11 {Tags:["delay"],PortalCooldown:450,Command:"/function dependancies:ghast"}
+summon commandblock_minecart 66 1 11 {Tags:["delay"],PortalCooldown:1400,Command:"/function game:end"}

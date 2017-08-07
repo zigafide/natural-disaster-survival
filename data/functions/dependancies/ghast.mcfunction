@@ -1,0 +1,1 @@
+summon ghast 416 30 -29 {ExplosionPower:5,Invulnerable:1}

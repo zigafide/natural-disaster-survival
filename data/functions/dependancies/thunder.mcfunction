@@ -1,0 +1,1 @@
+summon bat 417 16 -30 {CustomName:"thunder",Attributes:[{Name:generic.maxHealth,Base:1},{Name:generic.movementSpeed,Base:1}],Health:1.0f,Silent:1,ActiveEffects:[{Id:14,Amplifier:1,Duration:199980,ShowParticles:0b}]}

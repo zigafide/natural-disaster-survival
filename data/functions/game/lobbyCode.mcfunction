@@ -1,0 +1,1 @@
+execute @e[name=nds] ~ ~ ~ execute @a[r=1] ~ ~ ~ function player:joinDisasters
