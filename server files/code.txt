@@ -1,0 +1,11 @@
+/give @p sign 1 0 {
+    BlockEntityTag: {
+        Text1: "{\"text\":\"Buy\",\"color\":\"aqua\",\"bold\":true,\"clickEvent\":{\"action\":\"run_command\",\"value\":\"function shop:s_enderpearl\"}}",
+        Text2: "{\"text\":\"Single Use \",\"color\":\"yellow\",\"italic\":true}",
+        Text3: "{\"text\":\"Enderpearl\",\"color\":\"yellow\",\"italic\":true}",
+        Text4: "{\"text\":\"for 10 coins\",\"color\":\"aqua\",\"bold\":true}"
+    },
+    display: {
+        Name: "Custom Sign"
+    }
+}
